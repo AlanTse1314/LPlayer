@@ -35,16 +35,16 @@ import android.widget.VideoView;
 
 public class VideoActivity extends Activity {
 	
-	/**-----------------------系统参数------------------------**/
+	/**-----------------------系统参数-----------------------**/
 	private final String TAG = "VideoActivity";
     
-    /**-----------------------播放参数------------------------**/
+    /**-----------------------播放参数-----------------------**/
 	
 	private String mVideoSource = null;
 	
 	private String mVideoTitle = null;
 	
-	/**-----------------------播放组件------------------------**/
+	/**-----------------------播放组件-----------------------**/
 
 	private ImageButton mPlaybtn = null;
 	
